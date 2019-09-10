@@ -1,0 +1,3 @@
+{
+  "extends": "@cleavera/config/tsconfig.json"
+}
