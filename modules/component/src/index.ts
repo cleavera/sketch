@@ -1,8 +1,8 @@
 import { SketchElement } from './component/sketch';
 import { SKETCH_TEMPLATE_ID } from './component/sketch.id';
 
-const templateHTML: string = require('./component/sketch.html');
-const templateStyles: string = require('./component/sketch.scss');
+const templateHTML: string = require('./component/sketch.html'); // tslint:disable-line no-require-imports no-var-requires
+const templateStyles: string = require('./component/sketch.scss'); // tslint:disable-line no-require-imports no-var-requires
 
 const template: HTMLTemplateElement = document.createElement('template');
 

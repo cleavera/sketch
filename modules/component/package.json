@@ -2,7 +2,7 @@
   "name": "@sketch/component",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "webpack",
     "lint": "tslint --project ./tsconfig.json",
