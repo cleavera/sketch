@@ -13,7 +13,7 @@
   "devDependencies": {
     "@cleavera/config": "^1.2.0",
     "copy-webpack-plugin": "^5.0.4",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "node-sass": "^4.12.0",
     "raw-loader": "^3.1.0",
     "sass-loader": "^8.0.0",
@@ -21,7 +21,7 @@
     "tslint": "^5.20.0",
     "typescript": "^3.6.2",
     "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.8"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "@sketch/component": "file:sketch-component-1.0.0.tgz"
